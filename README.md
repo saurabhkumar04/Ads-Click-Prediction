@@ -21,6 +21,5 @@ project:
     author:
         - Kumar, Saurabh  
 
-    url: https://github.com/bigdata-i523/hid212/project/report.tex
     type: project
     chapter: Business
